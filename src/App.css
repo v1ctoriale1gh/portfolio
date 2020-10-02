@@ -3,6 +3,7 @@
   z-index:0;
   text-align: center;
   font-family: "Courier New", Courier, monospace, serif;
+  color: white;
 }
 
 
@@ -47,10 +48,6 @@ animation:move-twink-back 200s linear infinite;
 
 
 .welcome {
-  color: white;
-  text-align: center;
-  font-weight: bold;
-  font-size: 3em;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -58,3 +55,47 @@ animation:move-twink-back 200s linear infinite;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+.h1-less-padding {
+  font-size: 5rem;
+  padding-bottom: 0rem;
+  line-height: 0rem;
+}
+
+.hovered-text {
+    font-size: 18px;
+    cursor: pointer;
+    animation: rainbowPulse 5s infinite;
+  }
+  
+  @keyframes rainbowPulse {
+    0% {
+      color:pink;
+    }
+    25% {
+      color: blueviolet;
+    }
+    50% {
+        color: violet;
+      }
+      75% {
+        color: lightblue;
+      }
+      100% {
+        color: hotpink;
+      }
+  }
+
+
+  .about {
+    width: 75%;
+    margin: 0 auto;
+    font-size: 13px;
+  }
+
+  .rainbow {
+    animation: rainbowPulse 5s infinite;
+  }
+
+
+
