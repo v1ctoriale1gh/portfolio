@@ -15,7 +15,6 @@ body {
   font-family: "Courier New", Courier, monospace, serif;
   color: white;
   min-height: 100%;
-  
 }
 
 
@@ -59,7 +58,7 @@ animation:move-twink-back 200s linear infinite;
 }
 
 
-.welcome {
+.center {
   margin: 0;
   position: absolute;
   top: 50%;
@@ -68,10 +67,11 @@ animation:move-twink-back 200s linear infinite;
   transform: translate(-50%, -50%);
 }
 
-.h1-less-padding {
+.welcome-header {
   font-size: 5rem;
   padding-bottom: 0rem;
   line-height: 0rem;
+  animation: rainbowPulse 5s infinite;
 }
 
 .hovered-text {
@@ -105,9 +105,9 @@ animation:move-twink-back 200s linear infinite;
     font-size: 13px;
   }
 
-  .rainbow {
+  .rainbow-header {
     animation: rainbowPulse 5s infinite;
-    padding-top: 2rem;
+    padding-top: 4rem;
   }
 
  .link {

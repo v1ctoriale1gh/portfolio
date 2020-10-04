@@ -7,7 +7,7 @@ class About extends Component {
         return (
             
             <Container >
-                <h2 className="rainbow">☼ About ☼</h2>
+                <h2 className="rainbow-header">☼ About ☼</h2>
                 
                 <p className="about">Hello and thank you for visiting my portfolio!<br /><br />
                 My name is Victoria Leigh and I'm a full-stack software engineer and recent grad of the FlatIron School's full-time software engineering program.<br /><br />

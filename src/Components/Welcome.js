@@ -4,8 +4,9 @@ class Welcome extends Component {
 
     render() {
         return (
-            <div className="welcome">
-                <h1 className="h1-less-padding">Welcome</h1><br />
+            <div className="center">
+                <h1 className="welcome-header">☼ Welcome ☼</h1><br />
+                To Victoria Leigh's Portfolio<br />
                 {this.props.makeLinks("about")} ☼ {this.props.makeLinks("projects")} ☼ {this.props.makeLinks("contact")}
             </div>
         );
