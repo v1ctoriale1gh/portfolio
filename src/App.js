@@ -13,10 +13,10 @@ function App() {
   return (
     <div className="App">
       <div className="twinkling">
-        <Route exact path="/"><Welcome makeLinks={makeLinks} /></Route>
-        <Route exact path="/about"><About makeLinks={makeLinks}/></Route>
-        <Route exact path="/contact"><Contact makeLinks={makeLinks}/></Route>
-        <Route exact path="/projects"><Projects makeLinks={makeLinks}/></Route>
+        <Route exact path="/portfolio"><Welcome makeLinks={makeLinks} /></Route>
+        <Route exact path="/portfolio/about"><About makeLinks={makeLinks}/></Route>
+        <Route exact path="/portfolio/contact"><Contact makeLinks={makeLinks}/></Route>
+        <Route exact path="/portfolio/projects"><Projects makeLinks={makeLinks}/></Route>
       </div>
     </div>
   );
