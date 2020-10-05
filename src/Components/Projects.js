@@ -21,8 +21,8 @@ class Projects extends Component {
                 </Row>
                 <Row className="justify-content-md-center" style={{
                     paddingBottom: '2rem',
-                    paddingLeft: '3em',
-                    paddingRight: '3em'
+                    paddingLeft: '4.25em',
+                    paddingRight: '4em'
                 }}>
                 <iframe width="200" height="112" src="https://www.youtube.com/embed/oUoi5d6JS0Y" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Emotion-Logger" allowFullScreen></iframe>
                 </Row>
