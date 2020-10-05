@@ -9,7 +9,7 @@ class About extends Component {
             <Container >
                 <h2 className="rainbow-header">☼ About ☼</h2>
                 
-                <p className="about">Hello and thank you for visiting my portfolio!<br /><br />
+                <p className="small-text">Hello and thank you for visiting my portfolio!<br /><br />
                 My name is Victoria Leigh and I'm a full-stack software engineer and recent grad of the FlatIron School's full-time software engineering program.<br /><br />
                 During my past professional experiences as a counselor and in restaurant management, I discovered my love for solving problems and making new systems.  
                 My drive, passion, and desire for challenge led me to change careers to focus on developing, full-time. <br /><br />
