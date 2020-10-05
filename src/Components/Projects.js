@@ -13,12 +13,16 @@ class Projects extends Component {
                 <Container>
                 <Col>
                 <Row className="justify-content-md-center" style={{
-                    paddingTop: '1rem'
+                    paddingTop: '1rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
                 }}>
                     <h3>Emotion Logger</h3>
                 </Row>
                 <Row className="justify-content-md-center" style={{
-                    paddingBottom: '2rem'
+                    paddingBottom: '2rem',
+                    paddingLeft: '3em',
+                    paddingRight: '3em'
                 }}>
                 <iframe width="200" height="112" src="https://www.youtube.com/embed/oUoi5d6JS0Y" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Emotion-Logger" allowFullScreen></iframe>
                 </Row>
@@ -30,12 +34,16 @@ class Projects extends Component {
                 </Col>
                 <Col>
                 <Row className="justify-content-md-center" style={{
-                    paddingTop: '1rem'
+                    paddingTop: '1rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
                 }}>
                     <h3>Paddlers Only</h3>
                 </Row>
                 <Row className="justify-content-md-center" style={{
-                    paddingBottom: '2rem'
+                    paddingBottom: '2rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
                 }}>
                 <iframe width="200" height="112" src="https://www.youtube.com/embed/IXQ-Y7d9a-U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Paddlers-Only" allowFullScreen></iframe>
                 </Row>
@@ -46,12 +54,16 @@ class Projects extends Component {
                 </Col>
                 <Col>
                 <Row className="justify-content-md-center" style={{
-                    paddingTop: '1rem'
+                    paddingTop: '1rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
                 }}>
                     <h3>Forage Tracker</h3>
                 </Row>
                 <Row className="justify-content-md-center" style={{
-                    paddingBottom: '2rem'
+                    paddingBottom: '2rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
                 }}>
                 <iframe width="200" height="112" src="https://www.youtube.com/embed/gycrF-LFzJA" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Forage-Tracker" allowFullScreen></iframe>
                 </Row>
