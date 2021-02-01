@@ -14,7 +14,7 @@ class About extends Component {
                 During my past professional experiences as a counselor and in restaurant management, I discovered my love for solving problems and making new systems.  
                 My drive, passion, and desire for challenge led me to change careers to focus on developing, full-time. <br /><br />
                 Having completed The Flatiron School's program and built up skills in Ruby, Sinatra, Rails, Javascript, React, and of core CS fundamentals and patterns, I'm now looking for a full-stack position to apply my skills within a team and grow from more experienced developers.<br /><br />
-                Reared in Charleston, SC but raised in Atlanta, GA I spend my time developing projects, learning new tech skills, hiking and philosophizing about life with my partner, two dogs, and bearded dragon in The Big Peach and Georgia Foothills.</p><br />
+                Reared in Charleston, SC but raised in Atlanta, GA I spend my time developing projects, learning new tech skills, and hiking with my two dogs, and bearded dragon in The Big Peach and Georgia Foothills.</p><br />
                 {this.props.makeLinks("projects")} ☼ {this.props.makeLinks("contact")}
                 </Container>
         );
