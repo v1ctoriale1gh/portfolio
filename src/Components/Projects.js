@@ -27,7 +27,9 @@ class Projects extends Component {
                 <iframe width="200" height="112" src="https://www.youtube.com/embed/CJSPdGluy1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </Row>
                 <Row className="justify-content-md-center">
-                    <p><a target="_blank" rel="noopener noreferrer" href="http://victorial.sgedu.site/">Visit the Site</a></p><br />
+                    <p><a target="_blank" rel="noopener noreferrer" href="http://victorial.sgedu.site/">Visit the Site</a></p>
+                </Row>
+                <Row className="justify-content-md-center">
                     <p className="small-text">Figly is a mock business site for a skincare and beauty brick and mortar shop built using wordpress</p>
                 </Row>
                 </Col>
