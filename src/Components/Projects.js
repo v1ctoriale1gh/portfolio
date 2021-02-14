@@ -24,7 +24,7 @@ class Projects extends Component {
                     paddingLeft: '4.25em',
                     paddingRight: '4em'
                 }}>
-                <iframe width="200" height="112" src="https://www.youtube.com/embed/CJSPdGluy1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/CJSPdGluy1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </Row>
                 <Row className="justify-content-md-center">
                     <p><a target="_blank" rel="noopener noreferrer" href="http://victorial.sgedu.site/">Visit the Site</a></p>
@@ -46,7 +46,7 @@ class Projects extends Component {
                     paddingLeft: '4.25em',
                     paddingRight: '4em'
                 }}>
-                <iframe width="200" height="112" src="https://www.youtube.com/embed/oUoi5d6JS0Y" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Emotion-Logger" allowFullScreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/oUoi5d6JS0Y" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Emotion-Logger" allowFullScreen></iframe>
                 </Row>
                 <Row className="justify-content-md-center">
                     <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/v1ctoriale1gh/emotion-tracker-front-end">Front End on Github</a> ☼ <a target="_blank" rel="noopener noreferrer" href="https://github.com/v1ctoriale1gh/emotion-tracker-back-end">Back End on Github</a> ☼ <a target="_blank" rel="noopener noreferrer" href="https://emotion-logger-front-end.herokuapp.com/">Visit the App</a></p>
@@ -67,7 +67,7 @@ class Projects extends Component {
                     paddingLeft: '4em',
                     paddingRight: '4em'
                 }}>
-                <iframe width="200" height="112" src="https://www.youtube.com/embed/IXQ-Y7d9a-U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Paddlers-Only" allowFullScreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/IXQ-Y7d9a-U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Paddlers-Only" allowFullScreen></iframe>
                 </Row>
                 <Row className="justify-content-md-center">
                     <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/v1ctoriale1gh/paddlers-only-front-end">Front End on Github</a> ☼ <a target="_blank" rel="noopener noreferrer" href="https://github.com/v1ctoriale1gh/paddlers-only-back-end">Back End on Github</a> ☼ <a target="_blank" rel="noopener noreferrer" href="https://paddlers-only.herokuapp.com/">Visit the App</a></p>
@@ -87,7 +87,7 @@ class Projects extends Component {
                     paddingLeft: '4em',
                     paddingRight: '4em'
                 }}>
-                <iframe width="200" height="112" src="https://www.youtube.com/embed/gycrF-LFzJA" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Forage-Tracker" allowFullScreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/gycrF-LFzJA" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Forage-Tracker" allowFullScreen></iframe>
                 </Row>
                 <Row className="justify-content-md-center" style={{
                     paddingBottom: '2rem'
