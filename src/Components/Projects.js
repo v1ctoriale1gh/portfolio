@@ -17,6 +17,26 @@ class Projects extends Component {
                     paddingLeft: '4em',
                     paddingRight: '4em'
                 }}>
+                    <h3>Figly</h3>
+                </Row>
+                <Row className="justify-content-md-center" style={{
+                    paddingBottom: '2rem',
+                    paddingLeft: '4.25em',
+                    paddingRight: '4em'
+                }}>
+                <iframe width="200" height="112" src="https://www.youtube.com/watch?v=CJSPdGluy1o" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Figly" allowFullScreen></iframe>
+                </Row>
+                <Row className="justify-content-md-center">
+                    <p><a target="_blank" rel="noopener noreferrer" href="http://victorial.sgedu.site/">Visit the Site</a></p>
+                    <p className="small-text">Figly is a mock business site for a skincare and beauty brick and mortar shop built using wordpress</p>
+                </Row>
+                </Col>
+                <Col>
+                <Row className="justify-content-md-center" style={{
+                    paddingTop: '1rem',
+                    paddingLeft: '4em',
+                    paddingRight: '4em'
+                }}>
                     <h3>Emotion Logger</h3>
                 </Row>
                 <Row className="justify-content-md-center" style={{
